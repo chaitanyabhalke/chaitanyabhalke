@@ -22,6 +22,8 @@ A full-stack web application to track job applications with add, view, and delet
 
 📊 GitHub Stats
 
+![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyabhalke&show_icons=true&theme=dark)
+
 🏆 Certifications
 
 C Programming — IIT Bombay Spoken Tutorial
